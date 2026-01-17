@@ -3,8 +3,4 @@
 <h3 align="center">Data enthusiast with a passion for solving problems.</h3>
 <p align="center">As a software engineer with years of experience, my responsibilities encompass a wide spectrum. I've been at the forefront of software development, engaged in research endeavors, led recruitment efforts, managed teams, resolved errors, and continuously improved code.</p>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://www.chidiesobe.com" target="_blank">chidiesobe.com</a>
-</p>
 
