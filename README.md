@@ -1,12 +1,6 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/chidiesobe/chidiesobe/refs/heads/main/assets/master_panda.gif" alt="welcome!" width="10%" />
-  Welcome to my DOJO!
-</h1>
+### Hi, I’m Chidi 👋
 
-<p align="center">
-I build practical systems focused on billing, authentication, monitoring, and infrastructure for real-world applications, stability, simplicity, and long-term maintainability.
-</p>
-
+I build backend systems focused on reliability - handling billing, authentication, monitoring, and infrastructure.
 
 ## Projects
 
