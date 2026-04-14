@@ -1,6 +1,6 @@
 ### Hi, I’m Chidi 👋
 
-I build backend systems focused on reliability - handling billing, authentication, monitoring, and infrastructure.
+I build systems focused on reliability, billing, authentication, monitoring, and infrastructure.
 
 ## Projects
 
