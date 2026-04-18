@@ -6,17 +6,17 @@ I build systems focused on reliability, billing, authentication, monitoring, and
 
 ### Actively Maintained
 - **ZinaLog** – https://www.zinalog.com  
-- **DocNgin** – https://www.docngin.com  
 - **SaasPHP** – https://github.com/iamceeso/saasphp  
 
+### Side Projects 
+- **DocNgin** – https://www.docngin.com    
 
-### Fun / Experimental
-- **Instagram Bulk Comment Deleter**  
-  https://github.com/iamceeso/instagram-bulk-comment-deleter  
+### Fun Projects
+- **Instagram Bulk Comment Deleter**  https://github.com/iamceeso/instagram-bulk-comment-deleter  
 
-- **Instagram Bulk Likes Remover**  
-  https://github.com/iamceeso/instagram-bulk-likes-remover
+- **Instagram Bulk Likes Remover** https://github.com/iamceeso/instagram-bulk-likes-remover
 
+  
 ---
 <p align="center">
 Feel free to explore my other repositories for more fun and interesting projects.
