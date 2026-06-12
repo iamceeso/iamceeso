@@ -12,8 +12,6 @@ I build systems focused on reliability, billing, authentication, monitoring, and
 - **SaasPHP** - PHP SaaS starter kit with authentication, billing, teams, subscriptions, and admin tooling.  
   https://saasphp.com
 
-### Side Projects
-
 - **DocNgin** - Browser-based document toolkit for editing, converting, signing, compressing, and managing PDFs without creating an account.
   https://www.docngin.com  
 
