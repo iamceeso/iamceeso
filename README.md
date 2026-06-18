@@ -5,7 +5,9 @@ I build systems focused on reliability, billing, authentication, monitoring, and
 ## Projects
 
 ### Actively Maintained
-
+- **Chikaima** - A private AI workspace to upload media, chat with your models, and retrieve answers..  
+  https://www.chikaima.com
+  
 - **ZinaLog** - Log management and monitoring platform for collecting, searching, and analyzing application logs.  
   https://www.zinalog.com
 
